@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"mru.game.application"},{"l":"mru.game.controler"},{"l":"mru.game.model"},{"l":"mru.game.test"},{"l":"mru.game.view"}]
